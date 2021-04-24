@@ -8,7 +8,7 @@ All code and Jupyter Notebooks come without representations or warranties, to th
 
 ## Table of Contents
 
-* [Uninform search](https://github.com/Chanonsersa/Artificial-Intelligence/blob/master/Uninformed%20Search.ipynb)
+* [Uninform search](https://github.com/chatreejs/py4ai/blob/master/01_uninformed_search.ipynb)
 
 ## Copyright & Disclaimer
 © Chanon Treemeth | April 2021
