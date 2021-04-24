@@ -11,4 +11,4 @@ All code and Jupyter Notebooks come without representations or warranties, to th
 * [Uninform search](https://github.com/chatreejs/py4ai/blob/master/01_uninformed_search.ipynb)
 
 ## Copyright & Disclaimer
-© Chanon Treemeth | April 2021
+© Chanon Treemeth | October 2019
